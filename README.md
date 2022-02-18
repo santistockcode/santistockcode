@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📯 Puedes contactar conmigo mediante [correo electrónico](mailto:salarcons@protonmail.com) y encontrarme principalmente en [twitter](https://twitter.com/santidronaporia) y [mastodon](https://mastodon.social/@santidronestockpersona)
 
-- 👨‍🎓 estudio DAM en [Villarrobledo](https://iesvirreymorcillo.es/) y trabajo en una empresa de contabilidad 🧮 que no tiene nada que ver con la informática.
+- 👨‍🎓 Estudio DAM en [Villarrobledo](https://iesvirreymorcillo.es/)
 &nbsp;&nbsp;
 ### Lenguajes y herramientas:
 <p align="left">
