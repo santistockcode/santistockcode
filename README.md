@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍🎓 Estudié el ciclo superior de DAM (2020-22) y DAW (2022-23) en [Villarrobledo](https://iesvirreymorcillo.es/). Ahora soy estudiante de 42 Madrid.
 &nbsp;&nbsp;
-### Lenguajes y herramientas:
 <!--
 <p align="left">
 <a href="https://www.php.net" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/></a>
