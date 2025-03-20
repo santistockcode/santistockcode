@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 Subo mis proyectos para consulta personal, los puedes encontrar en la pestaña [repositorios de Github](https://github.com/santistockcode?tab=repositories)
 
-- 📯 Puedes contactar conmigo mediante [correo electrónico](mailto:salarcons@protonmail.com) y encontrarme principalmente en [X](https://twitter.com/santidronaporia)
+- 📯 Puedes contactar conmigo mediante [correo electrónico](mailto:salarcons@protonmail.com).
 
 - 👨‍🎓 Estudié el ciclo superior de DAM (2020-22) y DAW (2022-23) en [Villarrobledo](https://iesvirreymorcillo.es/). Ahora soy estudiante de 42 Madrid.
 &nbsp;&nbsp;
